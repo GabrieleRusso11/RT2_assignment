@@ -22,4 +22,4 @@ Since, the user interface now is a Jupyter notebook, you also need to open your 
 ## DEMO
 In this section I would like to add a short video that shows the new version of the user interface powered by the jupyter notebook
 
-[Watch the video](./Demo_User_Interface_Russo_Gabriele.mp4)
+https://github.com/GabrieleRusso11/RT2_assignment/releases/download/Demo/Demo_User_Interface_Russo_Gabriele.mp4
